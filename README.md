@@ -12,7 +12,7 @@ Grab the latest installer from the **[Releases page](../../releases)**:
 
 - **macOS** — download the `.dmg`, open it, drag NEO to Applications.
 - **Windows** — download the `.exe` installer and run it. (This version is not as tested!)
-- **Linux** — download the `.AppImage`, make it executable (right-click → Properties, or `chmod +x`), and run it. There's also a `.deb` (Ubuntu/Mint) and an `.rpm` (Fedora) if you like your apps properly installed. (Tested even less than Windows. You're basically a co-developer now.)
+- **Linux** — download the `.AppImage`, make it executable (right-click → Properties, or `chmod +x`), and run it. There's also a `.deb` (Ubuntu/Mint) and an `.rpm` (Fedora) if you like your apps properly installed. (Community contribution; not well-tested.)
 
 ## What makes NEO different
 
