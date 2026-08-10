@@ -12,7 +12,7 @@ Grab the latest installer from the **[Releases page](../../releases)**:
 
 - **macOS** — download the `.dmg`, open it, drag NEO to Applications.
 - **Windows** — download the `.exe` installer and run it. (This version is not as tested!)
-- **Linux** — download the `.AppImage`, make it executable (right-click → Properties, or `chmod +x`), and run it. There's also a `.deb` (Ubuntu/Mint) and an `.rpm` (Fedora) if you like your apps properly installed. (Tested even less than Windows. You're basically a co-developer now.)
+- **Linux** — download the `.AppImage`, make it executable (right-click → Properties, or `chmod +x`), and run it. There's also a `.deb` (Ubuntu/Mint) and an `.rpm` (Fedora). (Community contribution; this version is not tested!)
 
 ## What makes NEO different
 
@@ -40,7 +40,7 @@ Grab the latest installer from the **[Releases page](../../releases)**:
 
 ## Your files are yours
 
-Everything lives in `~/Documents/NEO Library` (or wherever your system keeps Documents) — a folder per book, chapters as readable HTML, metadata as JSON. Open them in any text editor.
+Everything lives in `~/Documents/NEO Library` (or your OS Documents convention) — a folder per book, chapters as readable HTML, metadata as JSON. Open them in any text editor.
 
 ## Building from source (for the eggheads):
 
